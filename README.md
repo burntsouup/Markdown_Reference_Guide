@@ -1,2 +1,3 @@
-# Markdown_Reference_Guide
-Popular markdown syntax.  
+# Markdown Reference Guide
+
+Popular markdown syntax. 
